@@ -117,8 +117,6 @@ I’m particularly interested in teams building scalable systems, APIs, or AI-in
 
 📫 Contact
 
-LinkedIn: (add your link)
-
-Email: (professional email)
+Email: (joseph.bouaouda@gmail.com)
 
 GitHub: https://github.com/agami13
